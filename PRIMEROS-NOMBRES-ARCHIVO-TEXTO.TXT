@@ -1,0 +1,53 @@
+Blackploit [PenTest].
+3l Conocimiento Debe Ser Libr3!
+CheatSheet con 400 comandos para GNU/Linux que deberías saber
+By Leo Romero 4 may 2013 18:42 CheatSheet, GNU/Linux, Hack Tips, Linux OS, Tips, Trucos
+Índice:
+Información del sistema
+Apagar (Reiniciar Sistema o Cerrar Sesión)
+Archivos y Directorios
+Encontrar archivos
+Montando un sistema de ficheros
+Espacio de Disco
+Usuarios y Grupos
+Permisos en Ficheros (Usa ”+” para colocar permisos y ”-” para eliminar)
+Atributos especiales en ficheros (Usa ”+” para colocar permisos y ”-” para eliminar)
+Archivos y Ficheros comprimidos
+Paquetes RPM (Red Hat, Fedora y similares)
+Actualizador de paquetes YUM (Red Hat, Fedora y similares)
+Paquetes Deb (Debian, Ubuntu y derivados)
+Actualizador de paquetes APT (Debian, Ubuntu y derivados)
+Ver el contenido de un fichero
+Manipulación de texto
+Establecer caracter y conversión de ficheros
+Análisis del sistema de ficheros
+Formatear un sistema de ficheros
+Trabajo con la SWAP
+Salvas (Backup)
+CD-ROM
+Trabajo con la RED ( LAN y Wi-Fi)
+Redes de Microsoft Windows (SAMBA)
+Tablas IP (CORTAFUEGOS)
+Monitoreando y depurando
+Otros comandos útiles
+Fuente: http://gutl.jovenclub.cu/
+acebook
+What's Related?
+Backdoor en Shell C99.php (Bypass P...
+Saltarse la contraseña (passcode) e...
+Saltándose la Contraseña de un iOS ...
+Cómo Instalar Metasploit en iOS 6.1...
+Ubuntu 16.04 LTS (Xenial Xerus) ya ...
+Author & Editor
+Ingeniero Civil en Computación (Universidad de Chile FCFM) y Diplomado en Gestión y Evaluación de Proyectos TI (Universidad de Chile FEN). Actualmente trabajo como Project Manager en varios proyectos y como asesor tecnológico para empresas.
+Entrada más reciente Entrada antigua Inicio
+0 Notaciones:
+Publicar un comentario
+Labels
+0-day (12) 1337day (1) 8.8 (2) Adobe Acrobat (1) Android (2) Anonimato (1) Anonymous (9) BackDoor (2) BackTrack (15) badUSB (1) Base64 (1) Black Hat (7) BlackHat (1) Blackploit (28) Brute Force (3) Bug (106) Bypass Password (1) Bypass Redirect (1) C99 Shell (1) Carding (1) CheatSheet (15) Chilean Way (2) Conference (10) Cryptsetup (1) CSRF (1) DDoS (11) DEF CON (3) DEFCON (7) Diapositivas (1) Diseño Web (1) Distro Linux (27) Documental (2) DoS (2) Drupal (1) DuckDuckGo (1) E-zine (18) Ekoparty (1) Escaneo (4) España (1) Exploit (64) Ezine (1) Facebook (1) Fast-Info (44) FBI (1) Ficheros Binarios (1) Firefox (4) Flash (2) Forense (9) Fuerza Bruta (11) Fuga de Datos (1) GhostShell (1) GNU/Linux (4) Google (2) Guía (1) Hack T00LZ (133) Hack Tips (63) Hacked (6) Hacking (19) Hacking Hardware (5) HashCat (1) Herramientas (124) HighSecCON (1) Humor Geek (13) Infografía (1) Ingeniería Social (5) Inj3ct0r (1) Internet Explorer (3) Java (7) JavaScript (2) Kali (3) KitPloit (4) Leaks (22) Linux OS (79) LulzSec (1) Mac OS (10) Magazine (1) Malaware (3) Malaware Tools (12) Malware (1) Man in the Middle (15) Manuales (3) MD5 CRACK (4) Metasploit (57) MSSQL (1) MySQL (6) MySQL CRACK (1) Nmap (6) Nmap NSE (2) Noticias (198) NTLM CRACK (1) Ofuscar (5) OpenSolaris OS (1) OpenSSL (1) ORACLE (1) OWASP (3) Paper (10) PDF (7) PenTest (14) Perl (2) Phearking (13) Phishing (3) PHP (13) phpMyAdmin (1) PoC (1) Premios Bitacoras (1) Presentaciones (11) PRISM (1) Privacidad (2) Programación (12) Programas Linux (41) Programas Windows (41) Pwned (1) Python (5) Ransomware (1) Reconocimiento (5) Ruby (2) s (1) Scripts (7) Seguridad (148) Seguridad Web (140) Seguridad Wireless (19) Sensitive Data Exposure (2) SHA1 CRACK (1) Shellshock (1) Slides (1) Spoofing (1) Spyware (1) SQLi (19) SQLi Tools (7) SQLMap (2) SSH (1) Textos (74) Tips (57) Troyanos y Virus (11) Trucos (7) Trucos Win (7) Turiales (56) Tutoriales (18) Twitter (1) Ubuntu (2) Underc0de (1) UnderDOCS (1) Unlock (1) URL Redirection (1) UXSS (1) vBulletin (1) Video (48) Virtualización (2) Web T00LZ (17) Wifislax (1) Wikileaks (1) WikiRebels (1) Windows OS (66) Wireless Tools (13) XSS (16) Youtube (1)
+Popular Posts
+Blog Archive
+3nlaces:
+ 
+Copyrights @ Blackploit [PenTest]
+biz.

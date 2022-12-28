@@ -1,0 +1,554 @@
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. Actualizador-Paquetes-APT.txt"
+
+echo "2. Actualizador-paquetes-YUM.txt"
+
+echo "3. Añadir-giones-frases.sh"
+
+echo "4. Apagar-sistema-o-sesion.txt"
+
+echo "5. apuntes-100-pregunats"
+
+echo "6. apuntes-linux-comandos.txt"
+
+echo "7. Archivos-y-Directorios.txt"
+
+echo "8. Archivos-y-Ficheros-comprimidos.txt"
+
+echo "9. Atributos-especiales.txt"
+
+echo "10. Directorios-linux-savitar.txt"
+
+echo "11. eliminar-espacio-frase.sh"
+
+echo "12. Encontrar-Archivos.txt"
+
+echo "13. Espacio-en-Disco.txt"
+
+echo "14. indice.txt"
+
+echo "15. informacion-sitema.txt"
+
+echo "16. Manipulacion-texto.txt"
+
+echo "17. menubase.sh"
+
+echo "18. Montando-sistema-de-ficheros.txt"
+
+echo "19. nombres.txt"
+
+echo "20. Paquetes-Debian.txt"
+
+echo "21. Paquetes-RMP.txt"
+
+echo "22. Permisos-en-ficheros.txt"
+
+echo "23. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "24. prueba-nombres-menu-BUENO copy.sh"
+
+echo "25. prueba-nombres-menu-BUENO.sh"
+
+echo "26. seleccionar-palabras-Izquierda.sh"
+
+echo "27. Ususarios-y-Grupos.txt"
+
+echo "28. VARIOS-MENUS-BASH-main"
+
+echo "29. Ver-contenidofichero.txt"
+
+echo "1. 450-comandos-linux.txt"
+
+echo "2. Añadir-giones-frases.sh"
+
+echo "3. apuntes-100-pregunats.txt"
+
+echo "4. comandos-linux-de-la-A-Z.txt"
+
+echo "5. eliminar-espacio-frase.sh"
+
+echo "6. indice.txt"
+
+echo "7. menubase.sh"
+
+echo "8. nombres2.txt"
+
+echo "9. nombres3.txt"
+
+echo "10. nombres-menus.txt"
+
+echo "11. nombres.txt"
+
+echo "12. pasos.txt"
+
+echo "13. PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT"
+
+echo "14. prueba-nombres-menu-BUENO copy.sh"
+
+echo "15. prueba-nombres-menu-BUENO.sh"
+
+echo "16. seleccionar-palabras-Izquierda.sh"
+

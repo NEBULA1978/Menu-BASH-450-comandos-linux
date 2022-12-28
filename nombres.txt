@@ -1,0 +1,16 @@
+450-comandos-linux.txt
+Añadir-giones-frases.sh
+apuntes-100-pregunats.txt
+comandos-linux-de-la-A-Z.txt
+eliminar-espacio-frase.sh
+indice.txt
+menubase.sh
+nombres2.txt
+nombres3.txt
+nombres-menus.txt
+nombres.txt
+pasos.txt
+PRIMEROS-NOMBRES-ARCHIVO-TEXTO.TXT
+prueba-nombres-menu-BUENO copy.sh
+prueba-nombres-menu-BUENO.sh
+seleccionar-palabras-Izquierda.sh

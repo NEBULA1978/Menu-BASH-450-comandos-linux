@@ -1,0 +1,33 @@
+ls scpits-JS > nombres.txt
+ex013_sentencia_const.js
+ex014_crear_literales.js
+ex016_undefined.js
+ex017_undefined_typeof.js
+ex018_retorno_funcion.js
+
+/////////////////////////////////////
+
+./prueba-nombres-menu-BUENO.sh 
+echo "1. ex013_sentencia_const.js"
+echo "2. ex014_crear_literales.js"
+echo "3. ex016_undefined.js"
+echo "4. ex017_undefined_typeof.js"
+echo "5. ex018_retorno_funcion.js"
+
+/////////////////////////////////////
+
+Abro consola sino no veo desde visual studio code:
+./'prueba-nombres-menu-BUENO copy.sh'
+
+0)
+node ex013_sentencia_const.js
+read foo
+;;
+1)
+node ex014_crear_literales.js
+read foo
+;;
+2)
+node ex016_undefined.js
+read foo
+;;

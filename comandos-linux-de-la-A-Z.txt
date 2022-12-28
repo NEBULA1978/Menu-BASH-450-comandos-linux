@@ -1,0 +1,324 @@
+Comandos Linux de la A a la Z
+￼￼
+Lista de comandos Linux de la A a la Z
+Esta es una lista de comandos linux en la que se incluyen el mayor número de comandos que se ha podido recavar buscando tener la lista mas completa posible con una breve descripción de su función y uso, en los casos que se tenga disponible los detalles del comando habrá un link en el que podrás ver la sintaxis, parámetros, formas de uso y ejemplos prácticos de como usar ese comando en el día a día.
+
+Si crees que falta un comando no dudes en contactarte con migo para agregarlo, recuerda que la información la construimos todos.
+
+a
+  alias    Crear un alias •
+  apropos  Buscar ayuda en la paginas de manual (man -k)
+  apt-get  Buscar e instalar paquetes de software (Debian/Ubuntu)
+  aptitude Buscar e instalar paquetes de software (Debian/Ubuntu)
+  aspell   Verificar ortografía
+  awk      Encontrar y reemplazar texto, ordena/valida/indexa
+           bases de datos
+b
+  basename Strip directory and suffix from filenames
+  bash     GNU Bourne-Again SHell 
+  bc       lenguaje de calculo de precisión arbitrario 
+  bg       Enviar al background
+  break    Salir de un bucle •
+  builtin  ejecutar un shell integrado
+  bzip2    comprimir o descomprimir archivo(s)
+c
+  cal      Mostrar un calendario
+  case     Ejecutar un comando en forma condicionada
+  cat      Concatenar y desplegar (en pantalla) el contenido
+           de un o varios archivos
+  cd       Cambiar de directorio
+  cfdisk   Gestor de Tablas de Partición para linux
+  chgrp    Cambiar la pertenencia a un grupo
+  chmod    Cambiar los permisos de acceso
+  chown    Cambiar el propietario y grupo de un archivo
+  chroot   Ejecutar un comando con directorio raíz deferente
+  chkconfig Servicios del sistema (nivel de ejecución)
+  cksum    Imprimir la suma de verificación y el conteo de 
+           bytes
+  clear    Limpiar la pantalla de la terminal
+  cmp      Comparar dos archivos
+  comm     Comparar dos archivos ordenados linea por linea
+  command  Ejecutar un comando - ignorando las funciones del
+           shell •
+  continue Continuar con la siguiente interacción de un ciclo
+           o bucle •
+  cp       Copiar uno o mas archivos a otra ubicación o ruta
+  cron     Daemon para ejecutar comandos agendados o 
+           programados
+  crontab  Agendar o programar la ejecución de un comando a un
+           tiempo específico
+  csplit   Separar un archivo en partes determinadas por el
+           contexto
+  cut      Divide un archivo en varias partes
+
+d
+  date     Mostrar o Cambiar la fecha y hora
+  dc       calculadora de escritorio
+  dd       Convertir y copiar un archivos, escribir a un
+           dispositivo o a los boot records
+  ddrescue Herramienta de recuperación de datos
+  declare  Declarar variables y asignarles atributos •
+  df       Mostrar el espacio libre en disco
+  diff     Mostrar las diferencias entre dos archivos
+  diff3    Mostrar deferencias entre tres archivos
+  dig      DNS lookup
+  dir      Listar de forma breve el contenido de directorios
+  dircolors Configurar colores para `ls'
+  dirname  Convierte un nombre de ruta completa a solo una ruta
+  dirs     Despliega una lista de directorios recordados
+  dmesg    Imprime mensajes del kernel y drivers 
+  du       Estima el espacio ocupado por el archivo
+e
+  echo     Despliega un mensaje en la pantalla •
+  egrep    Busca en archivo(s) por las líneas que corresponden
+           a una expresión extendida
+  eject    Expulsa medios re-movibles
+  enable   Habilita y des-habilita los comandos internos del
+           shell •
+  env      Variables de Ambiente
+  ethtool  Configuración de interfaz Ethernet
+  eval     Evalúa varios comandos/argumentos
+  exec     Ejecuta un comando
+  exit     Salir del shell
+  expect   Automatizar aplicaciones arbitrarias accedidas
+           mediante una terminal
+  expand   Convertir caracteres tabs a espacios
+  export   Establece una variable de ambiente
+  expr     Evalúa expresiones
+f
+  false    Sin efecto, falso, sin éxito
+  fdformat Formato de bajo nivel a un disco floppy
+  fdisk    Manipular tablas de partición para Linux
+  fg       Enviar trabajo o proceso al primer plano 
+           (foreground)
+  fgrep    Buscar en archivo(s) por las lineas que 
+           corresponden a una cadena fija
+  file     Determina el tipo de archivo(s)
+  find     Buscar archivos que corresponden a un criterio
+           deseado
+  fmt      Re formatear párrafo de texto
+  fold     Cortar texto para que tena un ancho específico.
+  for      Expandir palabras, y ejecutar comandos
+  format   Formatear discos o cintas
+  free     Despliega el uso de memoria
+  fsck     Verifica y repara la consistencia del sistema de
+           archivos
+  ftp      protocolo de transferencia de archivos ftp
+  function Define Funciones Macros
+  fuser    Identificar/Matar el proceso que está accediendo
+           al archivo
+g
+  gawk     Buscar y reemplazar texto en archivo (s)
+  getopts  Analiza los parámetros de posición
+  grep     Busca en archivos por las líneas que correspondan
+           al patrón buscado
+  groupadd Agregar un grupo de usuarios
+  groupdel Borrar un grupo
+  groupmod Modificar un grupo
+  groups   Imprimir nombre de los grupos a los que pertenece 
+           un usuario
+  gzip     Comprime o descomprime los archivos nombrados
+h
+  hash     Recordad la ruta completa de un argumento
+  head     Muestra la primera parte de uno o varios archivos
+  help     Despliega la ayuda para un comando integrado en el
+           sistema •
+  history  Muestra el historial de los comandos ejecutados
+  hostname Imprime o establece el nombre del sistema
+i
+  iconv    Convertir el juego de caracteres de un archivo
+  id       Imprime los identificadores de usuario y grupo
+  if       Ejecuta un comando según se evalúe una condición
+  ifconfig Configurar una interfaz de red
+  ifdown   Detener una interfaz de red 
+  ifup     Iniciar una interfaz de red
+  info     Leer documentos info del sistema o comandos
+  import   Capturar una pantalla del servidor X y grabar la imagen a un archivo
+  install  Copiar archivos y establecer atributos
+j
+  jobs     Lista los trabajos o procesos activos •
+  join     Une lineas en un campo común
+k
+  kill     Detiene un proceso en ejecución
+  killall  Detiene procesos por nombre
+l
+  less     Despliega parte de un archivo en pantalla de 
+           manera interactiva
+  let      Realiza aritmética en variables del shell •
+  ln       Crear enlaces simbólicos o duros entre archivos
+  local    Crear variables •
+  locate   Buscar archivos
+  logname  Imprime el nombre de cesión actual
+  logout   Sale de una sesión de shel •
+  look     Despliega lineas que comienzan con una cadena dada
+  lpc      programa de control de la línea de impresión
+  lpr      Impresión fuera de línea
+  lprint   Imprime un archivo
+  lprintd  Abortar un trabajo de impresión
+  lprintq  Listar la cola de impresión
+  lprm     Remover trabajos de la cola de impresión
+  ls       Listar información sobre archivos
+  lsblk    Lista los dispositivo de bloque (excepto discos RAM)
+  lsof     Listar los archivos abiertos
+m
+  make     Re compilar un grupo de programas
+  man      Manual o ayuda de un comando
+  mkdir    Crear un directorio
+  mkfifo   Hacer un FIFO (tuberías)
+  mkisofs  Crear un sistema de archivos híbrido ISO9660/JOLIET/HFS
+  mknod    Crear un block o un archivo especial de caracteres
+  more     Muestra la salida en una pantalla por pausas
+  mount    Montar un sistema de archivos
+  mtools   Manipular archivos MS-DOS
+  mtr      Diagnosticar Red (traceroute/ping)
+  mv       Mover o renombrar archivos o directorios
+  mmv      Mover o renombrar archivos o directorios de forma
+           masiva
+n
+  netstat  Dar información de la red
+  nice     Establecer la prioridad de un comando o de un 
+           proceso
+  nl       Enumera las líneas (al principio) de un archivo
+  nohup    Ejecutar un comando de forma inmune a bloqueos
+  notify-send  Enviar notificaciones de escritorio
+  nslookup Consulta los servidores de nombres de dominio de
+           forma interactiva
+o
+  open     Abrir un archivo con su aplicación predeterminada
+  op       Operador de acceso 
+p
+  passwd   Modificar la contraseña de un usuario
+  paste    Mezclar líneas de archivos
+  pathchk  Verificar portabilidad de un nombre de archivo
+  ping     Probar la conexión de red
+  pkill    Detener la ejecución de un proceso
+  popd     Restaurar el valor previo del directorio actual
+  pr       Preparar archivos para impresión
+  printcap Base de datos de la capacidad de impresoras
+  printenv Imprime variables de ambiente
+  printf   Formatear e imprimir datos •
+  ps       Estado de los procesos en el sistema
+  pushd    Grabar y luego cambiar el directorio actual
+  pwd      Imprimir el directorio actual
+q
+  quota    Mostrar límites y uso del disco
+  quotacheck Escanear un sistema de archivos para el uso 
+           del disco
+  quotactl Establecer cuotas de disco
+r
+  ram      Crear un dispositivo de disco en memoria
+  rcp      Copiar archivos entre dos máquinas
+  read     Leer una linea desde la entrada estándar •
+  readarray Leer desde la estrada estándar a una variable
+           tipo arreglo •
+  readonly Marcar variables/funciones como de solo lectura
+  reboot   Reiniciar el sistema
+  rename   Renombrar archivos
+  renice   Modificar la prioridad de procesos en ejecución 
+  remsync  Sincronizar archivos remotos vía email
+  return   Salir de una función shell
+  rev      Invertir las líneas de un archivo
+  rm       Remover archivo(s)
+  rmdir    Remover directorio(s)
+  rsync    Copiar archivos local o remotamente para sincronizar
+           directorios
+s
+  scp      Copiar archivos remotamente de forma segura (usando
+           ssh)
+  sdiff    Mezcla archivos de forma interactiva
+  sed      Editor de flujo de caracteres para filtrar y
+           formatear texto
+  seq      Imprime secuencias numéricas
+  set      Manipular variables y funciones del shell
+  sftp     Protocolo seguro de intercambio de archivos (sftp)
+  shift    Cambiar parámetros de posición
+  shopt    Opciones del Shell
+  shutdown Apagar o reiniciar linux
+  sleep    Demora por un tiempo determinado
+  slocate  Encontrar archivos
+  sort     Ordenar archivos de texto
+  source   Ejecutar un comando de un archivo `.'
+  split    Partir una archivo es pedazo de cierto tamaño
+  ssh      Cliente SSH (Secure Shell client) para llamar
+           programas remotamente
+  strace   Rastrear llamadas de sistema o señales
+  su       Cambia el id del usuario o para convertirse en
+           super usuario (root)
+  sudo     Ejecuta un comando como otro usuario
+  sum      Imprime la suma de verificación de un archivo
+  suspend  Suspende la ejecución del shell actual •
+  symlink  Crea un nuevo nombre para un archivo
+  sync     Sincroniza datos en disco con la memoria
+t
+  tail     Muestra la última parte de un archivo
+  tar      Tape ARchiver comprime y descomprime archivos
+  tee      Redirecciona la salida a múltiples archivos
+  test     Verifica tipos de archivos y compara valores
+  time     Ejecutar programas y resume el tiempo y recursos
+           ocupados
+  times    Obtener el tiempo (hora) del sistema y del
+           usuario
+  touch    Cambiar la hora del registro de uso de un archivo
+  top      Lista los procesos corriendo en el sistema y los
+           recursos usados
+  traceroute Traza una ruta hacia un host
+  tr       Traduce o elimina caracteres
+  tree     Muestra la estructura de un directorio
+  true     Sin efecto, valor verdadero, éxito
+  tsort    Realiza un ordenamiento topológico
+  tty      Imprime el nombre de archivo de la termina en la
+           entrada estándar stdin
+  type     Describe un comando •
+u
+  ulimit   Limitar los recursos de usuarios •
+  umask    Mascara de creación de archivos de usuarios
+  umount   Desmontar un dispositivo
+  unalias  Remueve una alias •
+  uname    Print system information
+  unexpand Convierte espacios caracteres tabs
+  uniq     Remueve lineas duplicadas en los archivos
+           indicados
+  units    Convierte unidades de una escala a otra
+  unset    Remueve variables o nombres de funciones
+  unshar   Desempaqueta archivos de shell scripts
+  until    Ejecuta comandos (hasta encontrar error)
+  uptime   Muestra el tiempo que el sistema ha estado
+           funcionando
+  useradd  Crear una cuenta nueva de usuario
+  userdel  Borra una cuenta de usuario
+  usermod  Modifica una cuenta de usuario
+  users    Lista los usuarios conectados actualmente al
+           sistema
+  uuencode Codifica un archivo binario 
+  uudecode Decodifica un archivo binario
+v
+  vdir     Lista ampliada del contenido de directorio(s)
+           (`ls -l -b')
+  vi       Editor de texto
+  vmstat   Reportar estadísticas de memoria virtual
+w
+  wait     Esperar que un proceso se complete •
+  watch    Ejecutar/desplegar un programa periódicamente
+  wc       Imprime el conteo de bytes, palabras y lineas
+  whatis   imprime descripciones de páginas de manual
+  whereis  Buscar en el $path, en las man pages y en los
+           archivos fuentes por un programa
+  which    Buscar en el $path del usuario por un archivo de
+           programa
+  while    Ejecuta comandos
+  who      Imprimir todos los usuarios conectados en el
+           sistema
+  whoami   Imprimir el id del usuario y el nombre del usuario
+           (`id -un')
+  wget     Descargar páginas web o archivos vía HTTP, HTTPS o 
+           FTP
+  write    Enviar un mensaje a otro usuario 
+x
+  xargs    Utilidad de Ejecución, pasando lista(s) de 
+           argumentos
+  xdg-open Abre un archivo o URL con la aplicación preferida
+           por el usuario
+  yes      Imprime una cadena "yes" hasta que sea interrumpido
+  .        Ejecuta un script de comandos en el shell actual
+  !!       Ejecuta de nuevo el último comando
+  ###      Comentario / Remarca 
